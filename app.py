@@ -186,8 +186,7 @@ with st.expander(" 📈 Peek behind the curtain at the model's performance..."):
 st.markdown("---")
 st.markdown("""
 <div class="footer">
-    <p>Crafted with 🧠 & ❤️ by <b>Kalyan Barri</b></p>
-    <a href="https://github.com/kalyan-kim" target="_blank">GitHub</a> | 
-    <a href="https://www.linkedin.com/in/kalyan-barri/" target="_blank">LinkedIn</a>
+    <p>Crafted with 🧠 & ❤️ by <b>Vamsi Pitta</b></p> 
+    <a href="https://www.linkedin.com/in/vamsi-pitta/" target="_blank">LinkedIn</a>
 </div>
 """, unsafe_allow_html=True)
